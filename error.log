@@ -1,0 +1,3 @@
+[Wed Apr 15 19:05:11.298360 2020] [ssl:warn] [pid 21089] AH01909: RSA certificate configured for www.selkis.com.co:443 does NOT include an ID which matches the server name
+[Wed Apr 15 19:05:11.335071 2020] [ssl:warn] [pid 21089] AH01909: RSA certificate configured for www.selkis.com.co:443 does NOT include an ID which matches the server name
+[Sun Apr 19 03:35:02.369369 2020] [ssl:warn] [pid 21089] AH01909: RSA certificate configured for www.selkis.com.co:443 does NOT include an ID which matches the server name
